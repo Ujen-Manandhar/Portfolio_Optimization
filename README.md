@@ -15,9 +15,10 @@ This project focuses on optimizing a stock portfolio by cleaning financial data,
 
 2. **Portfolio Optimization**
    - Constructing an optimal portfolio using `PyPortfolioOpt`
-   - Computing and plotting the **Efficient Frontier**
+   - Individual stock weights were kept with the range between 0 and 0.5 to prevent full investment in a single stock, which wold maxmize Sharpe Ratio without diversification.
    - Finding portfolios with **Minimum Volatility** and **Maximum Sharpe Ratio**
-
+   - Computing and plotting the **Efficient Frontier**
+   
 3. **Advanced Portfolio Techniques**
    - Using **Exponentially Weighted Covariance Matrix** for risk estimation
    - Computing **Exponentially Weighted Mean Returns**
