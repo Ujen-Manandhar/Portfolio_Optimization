@@ -4,7 +4,7 @@
 This project focuses on optimizing a stock portfolio by cleaning financial data, computing optimal portfolio allocations, and visualizing the efficient frontier. The optimization is conducted using the `PyPortfolioOpt` library, with an emphasis on minimum volatility and maximum Sharpe ratio portfolios. Additionally, the project explores advanced techniques such as exponentially weighted covariance matrices and downside risk-adjusted optimization.
 
 ## Data Sources
-- **Stock Data:** Retrieved from **[Ansu Invest](https://ansuinvest.com/research-opinion/view/still-thinking-of-last-minute-gifts-for-your-valentine-we-ve-got-you-covered586?page=4)**
+- **Stock Selection:** Retrieved from **[Ansu Invest](https://ansuinvest.com/research-opinion/view/still-thinking-of-last-minute-gifts-for-your-valentine-we-ve-got-you-covered586?page=4)**
 - **Price Data:** Collected from **[NepseAlpha](https://nepsealpha.com/nepse-data)**, covering the period from 2020-06-29 to 2025-03-25
 
 ## Project Workflow
